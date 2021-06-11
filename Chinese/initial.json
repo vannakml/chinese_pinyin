@@ -1,0 +1,23 @@
+{
+"initial pinyin/b.jpg": ["initial audio/aud_s_b.wav"],
+"initial pinyin/c.jpg": ["initial audio/aud_s_c.wav"],
+"initial pinyin/ch.jpg": ["initial audio/aud_s_ch.wav"],
+"initial pinyin/d.jpg": ["initial audio/aud_s_d.wav"],
+"initial pinyin/f.jpg": ["initial audio/aud_s_f.wav"],
+"initial pinyin/g.jpg": ["initial audio/aud_s_g.wav"],
+"initial pinyin/h.jpg": ["initial audio/aud_s_h.wav"],
+"initial pinyin/j.jpg": ["initial audio/aud_s_j.wav"],
+"initial pinyin/k.jpg": ["initial audio/aud_s_k.wav"],
+"initial pinyin/l.jpg": ["initial audio/aud_s_l.wav"],
+"initial pinyin/m.jpg": ["initial audio/aud_s_m.wav"],
+"initial pinyin/n.jpg": ["initial audio/aud_s_n.wav"],
+"initial pinyin/p.jpg": ["initial audio/aud_s_p.wav"],
+"initial pinyin/q.jpg": ["initial audio/aud_s_q.wav"],
+"initial pinyin/r.jpg": ["initial audio/aud_s_r.wav"],
+"initial pinyin/s.jpg": ["initial audio/aud_s_s.wav"],
+"initial pinyin/sh.jpg": ["initial audio/aud_s_sh.wav"],
+"initial pinyin/t.jpg": ["initial audio/aud_s_t.wav"],
+"initial pinyin/x.jpg": ["initial audio/aud_s_x.wav"],
+"initial pinyin/z.jpg": ["initial audio/aud_s_z.wav"],
+"initial pinyin/zh.jpg": ["initial audio/aud_s_zh.wav"]
+}
